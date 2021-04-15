@@ -24,7 +24,7 @@ import com.albertoraaz.springbootreact.repository.TutorialRepository;
 /**
  * The Class TutorialController.
  */
-@CrossOrigin(origins = "http://localhost:8081")
+// @CrossOrigin(origins = "http://localhost:8081")
 @RestController
 @RequestMapping("/api")
 public class TutorialController {
